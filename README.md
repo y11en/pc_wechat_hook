@@ -1,5 +1,9 @@
 #APi接口地址
 https://www.showdoc.cc/pcwx?page_id=1943433878242873
+上面是pc微信接口
+我这里还提供安卓hook接口全套的，有需要的可以加我微信 HeDaDa-Alone  支持企业定制 和各种类型的合作 
+
+QQ不知道是被那个小人一直在举报
 
 # pc_wechat_hook
 pc微信hook 课程例子源码 最新版pc微信hook全套课程尽在网易云课堂 搜索微信逆向即可
