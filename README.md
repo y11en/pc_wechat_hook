@@ -24,10 +24,10 @@ https://www.showdoc.cc/pcwx?page_id=1943433878242873
 【商务对接】：
 ------------
 ** 基本要求见必读栏，合法使用技术，人人有责 **  
-** API服务/本地部署/定制化开发/客户端/APP等 **
-** 商务QQ：242342905 **
-** 商务微信：Displore_23 **
-** 商务微信二维码见下 **
+** API服务/本地部署/定制化开发/客户端/APP等 **  
+** 商务QQ：242342905 **  
+** 商务微信：Displore_23 **  
+** 商务微信二维码见下 **  
 
 <img src="https://github.com/hedada-hc/pc_wechat_hook/blob/master/20190913112013.jpg" width="400">
 
