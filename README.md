@@ -1,5 +1,6 @@
 #APi接口地址
 https://www.showdoc.cc/pcwx?page_id=1943433878242873  这个api接口是旧版的，正在写新的接口文档，pcwechat全功能都可做  
+支持最新版的pcwechat 2.6.7.57、2.6.8.65、2.6.8.68/2.7.0(内测版可以发小程序)
 上面是pc微信接口  
 接收企业定制 微信 HeDaDa-Alone  
 接收企业定制 微信 HeDaDa-Alone  
