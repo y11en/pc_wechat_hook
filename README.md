@@ -20,7 +20,7 @@ https://www.showdoc.cc/pcwx?page_id=1943433878242873
 
 
 <img src="https://github.com/hedada-hc/pc_wechat_hook/blob/master/20190913112013.jpg" width="400">
-![image](https://github.com/hedada-hc/pc_wechat_hook/blob/master/%E9%83%A8%E5%88%86%E6%95%88%E6%9E%9C%E5%9B%BE4.png)
+<img src="https://github.com/hedada-hc/pc_wechat_hook/blob/master/%E9%83%A8%E5%88%86%E6%95%88%E6%9E%9C%E5%9B%BE4.png">
 
 # pc_wechat_hook  
 
