@@ -1,6 +1,9 @@
 #APi接口地址
 https://www.showdoc.cc/pcwx?page_id=1943433878242873
 上面是pc微信接口
+接收企业定制 微信 HeDaDa-Alone
+接收企业定制 微信 HeDaDa-Alone
+接收企业定制 微信 HeDaDa-Alone
 我这里还提供安卓hook接口全套的，有需要的可以加我微信 HeDaDa-Alone  支持企业定制 和各种类型的合作 
 
 QQ不知道是被那个小人一直在举报
