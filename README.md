@@ -29,7 +29,6 @@ https://www.showdoc.cc/pcwx?page_id=1943433878242873
 ** 商务微信：Displore_23 **  
 ** 商务微信二维码见下 **  
 
-<img src="https://github.com/hedada-hc/pc_wechat_hook/blob/master/20190913112013.jpg" width="400">
 <img src="https://github.com/hedada-hc/pc_wechat_hook/blob/master/商务微信截图.png" width="400">
 
 
